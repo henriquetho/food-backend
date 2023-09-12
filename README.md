@@ -7,8 +7,8 @@
 
 </p>
 <p>
-💻 <a href="#-about">About</a><br>
-🛠️ <a href="#-tech-stack">Tech Stack</a> <br>
+  💻<a href="#-about">About</a><br>
+  🛠<a href="#-tech-stack">Tech Stack</a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ In this challenge, the following topics were addressed:
 - Cors;
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 The following tools were used in the construction of the project:
 - [Express](https://expressjs.com/)
